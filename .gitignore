@@ -1,0 +1,9 @@
+.env
+.run
+.idea
+/.idea
+.settting
+/.settings
+/vendor
+.phpunit.result.cache
+composer.lock
