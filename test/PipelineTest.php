@@ -33,6 +33,7 @@ class PipelineTest extends TestCase
         $container->shouldReceive('get')->with(PipelineTestParameterPipe::class)->andReturn(new PipelineTestParameterPipe());
 
         return $container;
+        
     }
 
     /**
