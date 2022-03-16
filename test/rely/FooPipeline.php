@@ -1,7 +1,7 @@
 <?php
 
 
-namespace abxk\tests\rely;
+namespace abxk\test\rely;
 
 
 use abxk\Pipeline;

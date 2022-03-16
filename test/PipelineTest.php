@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace abxk\tests;
+namespace abxk\test;
 
 use abxk\Pipeline;
-use abxk\tests\rely\FooPipeline;
-use abxk\tests\rely\PipelineTestParameterPipe;
-use abxk\tests\rely\PipelineTestPipeOne;
-use abxk\tests\rely\PipelineTestPipeTwo;
+use abxk\test\rely\FooPipeline;
+use abxk\test\rely\PipelineTestParameterPipe;
+use abxk\test\rely\PipelineTestPipeOne;
+use abxk\test\rely\PipelineTestPipeTwo;
 use Mockery;
 use PHPUnit\Framework\TestCase;
 use Psr\Container\ContainerInterface;
